@@ -1,6 +1,6 @@
 ## Training Montage
 
-Here we create rebust, reliable, secure, scalable software for use in your home or office.
-Please me sure to see one of our specialists to hear all about our great offers.
+Here we create robust, reliable, secure, scalable software for use in your home or office.
+Please be sure to see one of our specialists to hear all about our great offers.
 
-Also, check out our sweet docs right [here](https://trainingmontage.github.io/test/), bro!
+Also, check out the automatically generated and pushed docs for [this](https://github.com/TrainingMontage/test) project [here](https://trainingmontage.github.io/test/).
